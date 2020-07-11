@@ -1,0 +1,15 @@
+h1 {
+  font-family: 'Comfortaa', cursive;
+}
+
+* {
+  font-family: 'Lobster', cursive;
+}
+
+p {
+  font-size: 3em;
+}
+
+strong {
+  color: red;
+}
